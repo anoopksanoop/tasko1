@@ -1,0 +1,25 @@
+.profile-img{
+    width: 8rem;
+    height: 8rem;
+    overflow: hidden
+}
+.Profilepage-div{
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.icons{
+    width: 25px;
+    height: 25px;
+
+}
+.social-list{
+    display: flex;
+    justify-content: center;
+    padding-right: 2rem;
+}
+.buttons{
+    padding-right: 1rem;
+}

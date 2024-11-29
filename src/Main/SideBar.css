@@ -1,0 +1,11 @@
+.mt-4{
+    overflow: auto;
+    display: -webkit-box;
+
+    &::-webkit-scrollbar {
+      display: none;
+    }
+}
+
+
+

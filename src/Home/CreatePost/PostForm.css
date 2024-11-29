@@ -1,0 +1,10 @@
+.avatars{
+    height: 12.125rem;
+    width: 12.125rem;
+
+}
+.d-flexs{
+     background: linear-gradient(110deg, #7ca086 60%, #605f5c 60%);
+     border-radius:15px;
+     padding: 40px
+}

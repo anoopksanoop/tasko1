@@ -1,0 +1,12 @@
+body {
+background-color: black;
+ 
+ }
+ .sigin{
+  display: flex;
+  justify-content: center;
+
+ }
+ .control{
+  margin-bottom: 7%;
+ }
