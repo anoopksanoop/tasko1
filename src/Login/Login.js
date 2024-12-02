@@ -42,7 +42,12 @@ const nav=useNavigate()
       headers: {
         'Content-Type': 'application/json',
       },
-      body: JSON.stringify({ email, password }),
+      // body: JSON.stringify({ email, password }),
+      body: JSON.stringify({
+        email: 'Anoop@gmail.com',
+        password: 'Anoop@134'
+    })
+    
     });
 
     if (!response.ok) {
