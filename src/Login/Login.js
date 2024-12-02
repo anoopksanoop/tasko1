@@ -43,11 +43,7 @@ const nav=useNavigate()
         'Content-Type': 'application/json',
       },
       // body: JSON.stringify({ email, password }),
-      body: JSON.stringify({
-        email: 'Anoop@gmail.com',
-        password: 'Anoop@134'
-    })
-    
+        body: JSON.stringify({ email, password }),
     });
 
     if (!response.ok) {
